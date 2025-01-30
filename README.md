@@ -1,6 +1,6 @@
-# Horizon RP FiveM Server Status Bot
+#  FiveM Server Status Bot
 
-This Discord bot provides real-time FiveM server status updates for **Horizon RP**.
+This Discord bot provides real-time FiveM server status updates for **fivem server**.
 
 ## Features
 
